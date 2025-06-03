@@ -14,3 +14,6 @@ model_comparison.csv
 preprocessed_data.csv
 traditional_ml_results.csv
 final_report.txt
+
+*.h5
+*.pkl
