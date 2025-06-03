@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+deep_learning_results.csv
+model_comparison.csv
+preprocessed_data.csv
+traditional_ml_results.csv
+final_report.txt
